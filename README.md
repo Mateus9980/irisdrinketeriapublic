@@ -43,23 +43,13 @@ O formulário **não envia nem armazena dados**. Após a validação nativa do n
 
 ## Executar
 
-Abra `index.html` no navegador. Não é necessário instalar pacotes, configurar variáveis de ambiente ou iniciar um servidor. A pasta também pode ser publicada em uma hospedagem estática, como GitHub Pages.
+Abra `index.html` no navegador. Não é necessário instalar pacotes, configurar variáveis de ambiente ou iniciar um servidor. O link do site real é https://irisdrinketeria.com.br/
 
-O Google Fonts depende de conexão com a internet; as imagens estão incluídas no projeto.
-
-## Conferência manual
-
-1. Abra o site em uma janela larga e outra estreita.
-2. Alterne os sabores e abra as galerias, verificando também o fechamento por Escape.
-3. Selecione as opções de outro tipo de evento e outro local no formulário.
-4. Confira a máscara de telefone e o limite de convidados.
-5. Preencha os campos obrigatórios com dados fictícios e simule a solicitação.
-
-## Versão pública
+## Versão código público
 
 Foram removidos funções serverless, webhooks, automações de planilhas, notificações, processamento de formulários, reCAPTCHA e scripts de rastreamento. Esta versão não precisa de tokens ou credenciais. Os contatos e links comerciais usam valores de exemplo.
 
-Os metadados, o `sitemap.xml` e o `robots.txt` usam `https://example.com` como domínio demonstrativo. Caso publique uma demonstração, revise esses endereços para o domínio escolhido, sem reutilizar configurações do site do cliente.
+Os metadados, o `sitemap.xml` e o `robots.txt` usam `https://example.com` como domínio demonstrativo. 
 
 ## Direitos de uso
 
